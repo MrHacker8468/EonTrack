@@ -20,8 +20,9 @@ export function Footer() {
                     </span>
                 </h2>
                 <p className="text-center text-lg text-gray-600 dark:text-gray-400">
-                    I'm Prajwal Sontakke, always striving to learn and create impactful solutions.
+                    I&apos;m Prajwal Sontakke, always striving to learn and create impactful solutions.
                 </p>
+
 
                 <div className="flex space-x-6">
                     <a
